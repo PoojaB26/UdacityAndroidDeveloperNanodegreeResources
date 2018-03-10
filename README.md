@@ -13,6 +13,10 @@
   [Parcelable vs Serializable](http://www.developerphil.com/parcelable-vs-serializable/)<br>
   [PARCELABLE VS. JAVA SERIALIZATION IN ANDROID](https://www.3pillarglobal.com/insights/parcelable-vs-java-serialization-in-android-app-development)<br>
   [Understanding Androids Parcelable - Tutorial](http://www.vogella.com/tutorials/AndroidParcelable/article.html)
+* [Android GridLayout with RecyclerView in Material Design](https://inducesmile.com/android/android-gridlayoutmanager-with-recyclerview-in-material-design/)
+* [Staggered Grid Layout Manager](https://inducesmile.com/android/android-staggeredgridlayoutmanager-example-tutorial/)
+* [Diff between Grid and StaggeredGrid](https://stackoverflow.com/questions/34216890/android-difference-between-gridlayout-and-staggered-gridlayout/34217143#34217143)
+
   
   
   
